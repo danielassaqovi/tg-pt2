@@ -3,5 +3,6 @@ public class Tg-Pt2 {
       System.out.println("Nama Kelompok");
       System.out.println("Nama : Muhammad Daniel Assaqovi");
       System.out.println("Nim  :244107020061");
+
   }
 }
